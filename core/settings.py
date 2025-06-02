@@ -32,7 +32,7 @@ INSTALLED_APPS = [
     'perfil',
 
     # TODO: remover
-    'debug-toolbar',
+    'debug_toolbar',
 ]
 
 MIDDLEWARE = [
